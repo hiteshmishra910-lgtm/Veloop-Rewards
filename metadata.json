@@ -1,0 +1,6 @@
+{
+  "name": "VELOOP Rewards - Premium Banner & Card Suite",
+  "description": "High-conversion, premium fintech promotional and feature banner design system for VELOOP Rewards featuring Refer & Earn, Swap Center, Bonus VEs, Captcha Tasks, and Exchange Center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
